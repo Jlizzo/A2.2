@@ -1,0 +1,45 @@
+body {
+  background-color:#9933ff; 
+  color:#ccff33;
+}
+
+a { 
+  height:6000px; 
+  width:200px; 
+  float:left; 
+  padding:5px; 
+  line-height:30px;
+}
+
+footer { 
+  
+  background-color:#ff33cc;
+  border:3px solid #ff99ff;
+  text-align:center; 
+  margin-right:200px;
+  margin-left:200px;
+  vertical-align:bottom;
+
+}
+
+#memeimage {
+  margin-right:200px;
+  float:right;
+}
+
+h1 {
+  text-align:center;
+  border:3px solid #ff99ff;
+}
+
+h1,footer {
+  font-family:Elephant;
+}
+
+p {
+  text-align:center;
+}
+
+
+
+
